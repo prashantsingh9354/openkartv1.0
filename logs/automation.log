@@ -1,0 +1,51 @@
+15:31:35.954 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegister *****
+15:31:36.543 [main] INFO  testCases.AccountRegistrationTest - clicked on myAccount
+15:31:37.224 [main] INFO  testCases.AccountRegistrationTest - Clicked on Registration
+15:31:37.224 [main] INFO  testCases.AccountRegistrationTest - Customer's Details
+15:32:57.456 [main] INFO  testCases.AccountRegistrationTest - ***** Starting AccountRegister *****
+15:32:57.583 [main] INFO  testCases.AccountRegistrationTest - clicked on myAccount
+15:32:57.969 [main] INFO  testCases.AccountRegistrationTest - Clicked on Registration
+15:32:57.969 [main] INFO  testCases.AccountRegistrationTest - Customer's Details
+15:32:59.370 [main] INFO  testCases.AccountRegistrationTest - ***** Finished AccountRegister *****
+15:33:52.444 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:33:53.083 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:33:53.764 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:33:53.764 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:38:12.459 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:38:12.937 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:38:13.328 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:38:13.328 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:41:10.600 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:41:11.074 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:41:11.451 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:41:11.451 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:44:06.300 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:44:07.174 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:44:07.788 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:44:07.788 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:44:09.422 [main] INFO  testCases.TC001_AccountRegistrationTest - Cvalidating expected message
+15:48:43.352 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:48:43.684 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:48:44.198 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:48:44.198 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:48:45.585 [main] INFO  testCases.TC001_AccountRegistrationTest - Cvalidating expected message
+15:53:08.551 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:53:09.220 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:53:10.050 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:53:10.050 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:53:11.637 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:53:11.675 [main] ERROR testCases.TC001_AccountRegistrationTest - test failed
+15:53:11.675 [main] ERROR testCases.TC001_AccountRegistrationTest - dubug...
+15:56:44.964 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:56:45.563 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:56:46.162 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:56:46.162 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:56:47.729 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:56:47.783 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished AccountRegister *****
+15:57:28.430 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting AccountRegister *****
+15:57:29.008 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+15:57:29.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Registration
+15:57:29.592 [main] INFO  testCases.TC001_AccountRegistrationTest - Customer's Details
+15:57:31.109 [main] INFO  testCases.TC001_AccountRegistrationTest - validating expected message
+15:57:31.153 [main] ERROR testCases.TC001_AccountRegistrationTest - test failed
+15:57:31.153 [main] DEBUG testCases.TC001_AccountRegistrationTest - dubug...
