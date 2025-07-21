@@ -13,6 +13,13 @@ public class MyAccountPage extends BasePage {
 	@FindBy(xpath="//h2[normalize-space()='My Account']")
 	WebElement myAccMess;
 	
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
+	WebElement btn_logout;
+	
+	public void logout() {
+		btn_logout.click();
+	}
+	
 	public boolean ismyaccdis() 
 	{
 		try {

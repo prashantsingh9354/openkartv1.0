@@ -10,7 +10,7 @@ import testBase.BaseClass;
 
 public class TC002_LoginTest extends BaseClass{
 	
-	@Test
+	@Test(groups={"Sanity","Master"})
 	public void Login() {
 		logger.info("**** Starting TC002_LoginTest ******");
 		try {
@@ -22,9 +22,9 @@ public class TC002_LoginTest extends BaseClass{
 		lp.Email(p.getProperty("email"));
 		lp.Pass(p.getProperty("pwd"));
 		lp.login();
-		
+				
 		MyAccountPage myacc=new MyAccountPage(driver);
-	    boolean target=myacc.ismyaccdis();
+		boolean target=myacc.ismyaccdis();
 	    
 	    Assert.assertTrue(target); //Assert.assertEquals(target, true,"Login failed");
 		}

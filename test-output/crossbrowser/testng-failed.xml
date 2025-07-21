@@ -5,13 +5,6 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="testCases.TC002_LoginTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="setup"/>
-          <include name="Login"/>
-        </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
       <class name="testCases.TC001_AccountRegistrationTest">
         <methods>
           <include name="teardown"/>
@@ -19,6 +12,13 @@
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC001_AccountRegistrationTest -->
+      <class name="testCases.TC002_LoginTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="setup"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- testCases.TC002_LoginTest -->
     </classes>
   </test> <!-- FirefoxTest(failed) -->
 </suite> <!-- Failed suite [crossbrowser] -->

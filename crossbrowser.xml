@@ -4,6 +4,10 @@
 
 <suite name="crossbrowser" thread-count="5" parallel="false">
   
+  <listeners>
+		<listener class-name="utilities.ExtentReportManager"/>
+	</listeners>
+	
   <test  name="chromeTest">
 	  <parameter name="os" value="Windows"></parameter>
 	  <parameter name="browser" value="chrome"></parameter>
