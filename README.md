@@ -1,7 +1,5 @@
 This is an Automation project to test OpenKart features	
 
-
-
 ---TestCases--- 
 
 ---Regression Testing on OpenKart---
