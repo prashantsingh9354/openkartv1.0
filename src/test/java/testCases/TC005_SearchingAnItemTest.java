@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 import pageObjects.HomePage;
 import pageObjects.LoginPage;
 import pageObjects.Search;
+import pageObjects.Wishlist;
 import testBase.BaseClass;
 
 public class TC005_SearchingAnItemTest extends BaseClass {
@@ -27,7 +28,15 @@ public class TC005_SearchingAnItemTest extends BaseClass {
 		src.Search(p.getProperty("product_search"));
 		//Thread.sleep(1000);
 		src.clickSearch();
-		//Thread.sleep(1000);
+		Thread.sleep(1000);
+		
+		// Adding to wishList
+		src.addtowishlist();
+		
+		// opening wishlist
+		Wishlist wl=new Wishlist(driver);
+		wl.wishlist();
+		Thread.sleep(1000);
 				
 		
 		logger.info("**** Finished TC002_LoginTest ******");

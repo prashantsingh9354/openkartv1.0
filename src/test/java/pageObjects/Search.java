@@ -15,12 +15,19 @@ public class Search extends BasePage{
 	@FindBy(xpath="//i[@class='fa fa-search']")
 	WebElement btn_search;
 	
+	@FindBy(xpath="//button[@type='button']//i[@class='fa fa-heart']")
+	WebElement btn_wishlist;
+	
 	public void Search(String src) {
 		input_Search.sendKeys(src); 		
 	}
 	
 	public void clickSearch() {
 		btn_search.click();
+	}
+	
+	public void addtowishlist() {
+		btn_wishlist.click();
 	}
 
 }
